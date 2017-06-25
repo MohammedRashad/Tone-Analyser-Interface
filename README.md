@@ -34,7 +34,7 @@ This application is a GUI to consume the service and ease its usage for social m
 - Swing GUI
 - Analyzes in real-time
 - Results Visualization
-
+- Tested in windows, linux and mac.
 # License 
 
 This Application is signed under MIT License, repoduction and usage is under its terms.
